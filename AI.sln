@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LoRa", "LoRa", "{4F74F324-DC06-43F4-BF0A-7BF4335AFF6E}"
+	ProjectSection(SolutionItems) = preProject
+		LoRa\RunWindowsCpuEnvironment.bat = LoRa\RunWindowsCpuEnvironment.bat
+		LoRa\RunWindowsCudaEnvironment.bat = LoRa\RunWindowsCudaEnvironment.bat
+		LoRa\WindowsCpuTrainingSetup.bat = LoRa\WindowsCpuTrainingSetup.bat
+		LoRa\WindowsCudaTrainingSetup.bat = LoRa\WindowsCudaTrainingSetup.bat
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_", "_", "{61CA9D44-BDC5-4D13-B2C3-3452901522F6}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
