@@ -27,9 +27,11 @@ call pip install transformers
 call pip install huggingface_hub
 call pip install peft
 call pip install bitsandbytes
+call pip install protobuf
 
 call pip install sentencepiece
 call pip install playsound
+call pip install lm-eval
 
 echo Setup complete. You can now use the 'tcuda' environment.
 pause
